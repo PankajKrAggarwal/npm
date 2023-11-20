@@ -1,0 +1,27 @@
+
+@font-face
+{
+	src:url(../assets/font/OpenSans-Regular.ttf);
+	font-family: ankit;
+}
+
+
+body
+{
+    font-family: ankit;
+}
+.logo
+{
+	font: 700 34px/34px 'Montserrat',sans-serif;
+    letter-spacing: .34em;
+    text-transform: uppercase;
+}
+
+.slide-one
+{
+    
+	padding-top: 15px;
+    font: 400 24px/28px 'Montserrat',sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .62em;
+}

@@ -1,0 +1,32 @@
+
+.logo
+{
+	font: 700 34px/34px 'Montserrat',sans-serif;
+    letter-spacing: .34em;
+    text-transform: uppercase;
+}
+.slide-one
+{
+	padding-top: 15px;
+    font: 400 24px/28px 'Montserrat',sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .62em;
+}
+.one_black
+{
+    content: "";
+    width: 34px;
+    height: 3px;
+    display: block;
+    background: #191c21;
+    position: relative;
+    margin-bottom: 22px;
+}
+.one_one
+{
+    content: "";
+    width: 30px;
+    height: 3px;
+    background: #fff;
+    display: block;
+}
